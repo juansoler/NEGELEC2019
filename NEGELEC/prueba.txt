@@ -1,0 +1,11 @@
+1
+Placa Base ASRock VGA INTEGRADA, Tarjeta Grafica NVIDIA GTX 1250, i3 2500, CAJA ATX, i7 4660, Raton optico
+CAJA ATX, Placa Base Gigabyte, 8GB RAM, i7 4660, i5 3500
+Tarjeta Grafica NVIDIA GTX 1250, i3 2500, Placa Base Gigabyte, CAJA ATX, i7 4660, Raton optico
+4GB RAM, Placa Base ASRock VGA INTEGRADA, Tarjeta Grafica NVIDIA GTX 1250, i3 2500, CAJA ATX, 8GB RAM, i5 3500
+Placa Base ASRock VGA INTEGRADA, Tarjeta Grafica NVIDIA GTX 1250, i3 2500, 8GB RAM, Placa Base Gigabyte, CAJA ATX, Raton optico, i5 3500
+4GB RAM, Placa Base ASRock VGA INTEGRADA, 8GB RAM
+Placa Base ASRock VGA INTEGRADA, Placa Base Gigabyte, i7 4660
+Tarjeta Grafica NVIDIA GTX 1250, i3 2500, 8GB RAM, CAJA ATX, i7 4660, Raton optico, i5 3500
+Tarjeta Grafica NVIDIA GTX 1250, i3 2500, CAJA ATX, i7 4660, Raton optico, i5 3500
+4GB RAM, Placa Base ASRock VGA INTEGRADA, i3 2500, CAJA ATX, 8GB RAM, Placa Base Gigabyte, i7 4660, Raton optico, i5 3500
